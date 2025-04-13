@@ -1,0 +1,8 @@
+# Santander Customer Prediction
+
+This project demonstrates an end-to-end solution for predicting customer behavior using the LightGBM model.
+
+## Steps:
+1. **Model Training**: Trained a LightGBM model for binary classification.
+2. **Streamlit UI**: A simple UI to upload test data and visualize predictions.
+3. **FastAPI**: A REST API for real-time predictions.
